@@ -1,0 +1,32 @@
+body {
+	background-color: lightgreen;
+}
+
+h1 {
+	margin-left: 20%;
+}
+
+#sidebar {
+	background-color: saddlebrown;
+	height: 50%;
+	width: 15%;
+	position: fixed;
+}
+
+#sidebar p {
+	text-align: center;
+	font-size: large;
+	color: orange;
+}
+
+#sidebar a {
+	color: orange;
+	display: block;
+	margin: 5%;
+}
+
+
+#main {
+	margin-left: 20%;
+	margin-right: 30%;	
+}

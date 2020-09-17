@@ -1,0 +1,21 @@
+#corners {
+	border-radius: 8px ;
+}
+
+#round {
+	border-radius: 50% ;
+}
+
+#frame { 
+	border: solid;
+	padding: 5px;
+	background-color: white;
+ }
+
+ #sepia {
+ 	filter: sepia(70%);
+ }
+
+ #blur {
+ 	filter: blur(3px);
+ }
